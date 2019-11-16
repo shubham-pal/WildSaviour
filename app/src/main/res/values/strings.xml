@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CriminalIntent</string>
+    <string name="app_name">Wild Devengers</string>
 
     <string name="crime_title_hint">Enter crime title</string>
     <string name="crime_detail_hint">Enter crime detail</string>
