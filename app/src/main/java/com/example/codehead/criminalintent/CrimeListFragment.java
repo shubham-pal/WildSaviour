@@ -90,7 +90,7 @@ private void updateSubtitle(){
             subtitle=null;
         }
     AppCompatActivity activity= (AppCompatActivity) getActivity();
-    activity.getSupportActionBar().setSubtitle(subtitle);
+  //  activity.getSupportActionBar().setSubtitle(subtitle);
 
 
 }

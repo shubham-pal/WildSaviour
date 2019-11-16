@@ -1,26 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/activity_main"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content">
-    <HorizontalScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scrollbars="none">
 
-        <ImageView
-            android:id="@+id/bg"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-    </HorizontalScrollView>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
+        android:id="@+id/sosbtn"
+        android:layout_width="179dp"
+        android:layout_height="107dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:text="SOS"
-        android:textSize="50sp"/>
-</RelativeLayout>
+        app:layout_constraintBottom_toTopOf="@+id/reportcrimebtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/reportcrimebtn"
+        android:layout_width="142dp"
+        android:layout_height="69dp"
+        android:layout_marginBottom="88dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="Report Crime"
+        app:layout_constraintBottom_toTopOf="@+id/viewcrimebtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <Button
+        android:id="@+id/viewcrimebtn"
+        android:layout_width="199dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="104dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="View reported crimes"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</android.support.constraint.ConstraintLayout>
