@@ -54,6 +54,10 @@ INJECTED from /home/codehead/WildSaviour/app/src/main/AndroidManifest.xml:2:1-45
 		INJECTED from /home/codehead/WildSaviour/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/codehead/WildSaviour/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/codehead/WildSaviour/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/codehead/WildSaviour/app/src/main/AndroidManifest.xml:4:22-64
 uses-feature#android.hardware.camera
 ADDED from /home/codehead/WildSaviour/app/src/main/AndroidManifest.xml:5:5-7:36
 	android:required
