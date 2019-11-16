@@ -1,0 +1,4 @@
+#Sat Nov 16 00:32:21 IST 2019
+base.0=C\:\\Users\\msk\\Desktop\\DUCS\\CriminalIntent-20191115T155027Z-001\\CriminalIntent\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

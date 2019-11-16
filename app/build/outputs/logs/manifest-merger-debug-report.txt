@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [co.gofynd.library:gravity-view:1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\gravity-view-1.0.aar\98639b9b36f2bd3a63bfc2b3d13106f6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96fb54942f272060d59ba28c757ef317\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\727867977fd300299ef4b7cd93b9123f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f5f772c65a8a63476ff48ed4373c8fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\acd4a528b35e604d09ceae95df7d23c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4ccfc71972c9ae9810cac9e73768bf37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fb82f553bca0a36df7115714a946157f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c56dac62210c8a9493ae1a994b2b063c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9034e7e9cef0472c6389ee01ed5626ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a34d59969cdc7a9ef349157c1d8e1b09\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fbf197acb0b97372b3d8e74bf6a92c71\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ff0a44393462ddcbfda0ec2081661e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c45b1a005e711e455937f36145e3720d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76d92a393bb89500d3e218e6015437f1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:6:9-47
+application
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:9:5-42:19
+MERGED from [co.gofynd.library:gravity-view:1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\gravity-view-1.0.aar\98639b9b36f2bd3a63bfc2b3d13106f6\AndroidManifest.xml:11:5-15:19
+MERGED from [co.gofynd.library:gravity-view:1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\gravity-view-1.0.aar\98639b9b36f2bd3a63bfc2b3d13106f6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\727867977fd300299ef4b7cd93b9123f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\727867977fd300299ef4b7cd93b9123f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:12:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:15:9-43
+	android:roundIcon
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:13:9-54
+	android:largeHeap
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.codehead.criminalintent.CrimeActivity
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.example.codehead.criminalintent.CrimePagerActivity
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:19:9-21:63
+	android:parentActivityName
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:20:13-47
+activity#com.example.codehead.criminalintent.CrimeListActivity
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:22:19-52
+activity#com.example.codehead.criminalintent.SplashScreen
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:27:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:33:13-91
+	android:exported
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:32:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:36:13-38:49
+	android:resource
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:38:17-46
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:37:17-67
+activity#com.example.codehead.criminalintent.MainActivity
+ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:41:9-59
+	android:name
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml:41:19-47
+uses-sdk
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+MERGED from [co.gofynd.library:gravity-view:1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\gravity-view-1.0.aar\98639b9b36f2bd3a63bfc2b3d13106f6\AndroidManifest.xml:7:5-9:41
+MERGED from [co.gofynd.library:gravity-view:1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\gravity-view-1.0.aar\98639b9b36f2bd3a63bfc2b3d13106f6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96fb54942f272060d59ba28c757ef317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96fb54942f272060d59ba28c757ef317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\727867977fd300299ef4b7cd93b9123f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\727867977fd300299ef4b7cd93b9123f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f5f772c65a8a63476ff48ed4373c8fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f5f772c65a8a63476ff48ed4373c8fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\acd4a528b35e604d09ceae95df7d23c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\acd4a528b35e604d09ceae95df7d23c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4ccfc71972c9ae9810cac9e73768bf37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4ccfc71972c9ae9810cac9e73768bf37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fb82f553bca0a36df7115714a946157f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fb82f553bca0a36df7115714a946157f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c56dac62210c8a9493ae1a994b2b063c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c56dac62210c8a9493ae1a994b2b063c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9034e7e9cef0472c6389ee01ed5626ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9034e7e9cef0472c6389ee01ed5626ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a34d59969cdc7a9ef349157c1d8e1b09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a34d59969cdc7a9ef349157c1d8e1b09\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fbf197acb0b97372b3d8e74bf6a92c71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fbf197acb0b97372b3d8e74bf6a92c71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ff0a44393462ddcbfda0ec2081661e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ff0a44393462ddcbfda0ec2081661e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c45b1a005e711e455937f36145e3720d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c45b1a005e711e455937f36145e3720d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76d92a393bb89500d3e218e6015437f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\msk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76d92a393bb89500d3e218e6015437f1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\msk\Desktop\DUCS\CriminalIntent-20191115T155027Z-001\CriminalIntent\app\src\main\AndroidManifest.xml
