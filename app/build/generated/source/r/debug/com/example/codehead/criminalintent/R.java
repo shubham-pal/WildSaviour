@@ -3112,18 +3112,23 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f06008e;
     public static final int notification_tile_bg=0x7f06008f;
     public static final int notify_panel_notification_icon_bg=0x7f060090;
-    public static final int path=0x7f060091;
-    public static final int photo=0x7f060092;
-    public static final int plus=0x7f060093;
-    public static final int plus1=0x7f060094;
-    public static final int plus_add_green=0x7f060095;
-    public static final int spl=0x7f060096;
-    public static final int splash=0x7f060097;
-    public static final int splashme=0x7f060098;
-    public static final int status=0x7f060099;
-    public static final int title=0x7f06009a;
-    public static final int tooltip_frame_dark=0x7f06009b;
-    public static final int tooltip_frame_light=0x7f06009c;
+    public static final int panda_bear=0x7f060091;
+    public static final int path=0x7f060092;
+    public static final int photo=0x7f060093;
+    public static final int plus=0x7f060094;
+    public static final int plus1=0x7f060095;
+    public static final int plus_add_green=0x7f060096;
+    public static final int slider1=0x7f060097;
+    public static final int slider2=0x7f060098;
+    public static final int slider3=0x7f060099;
+    public static final int spl=0x7f06009a;
+    public static final int splash=0x7f06009b;
+    public static final int splashme=0x7f06009c;
+    public static final int status=0x7f06009d;
+    public static final int tiger=0x7f06009e;
+    public static final int title=0x7f06009f;
+    public static final int tooltip_frame_dark=0x7f0600a0;
+    public static final int tooltip_frame_light=0x7f0600a1;
   }
   public static final class id {
     public static final int ALT=0x7f070000;
